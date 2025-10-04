@@ -1,0 +1,7 @@
+ultralytics>=8.2
+opencv-python-headless==4.10.0.84
+numpy
+pandas
+scipy
+matplotlib
+gradio>=4.0
