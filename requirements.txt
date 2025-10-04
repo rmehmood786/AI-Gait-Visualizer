@@ -1,7 +1,23 @@
-ultralytics>=8.2
+# Core computer vision + AI
+ultralytics>=8.2.0
 opencv-python-headless==4.10.0.84
-numpy
-pandas
-scipy
-matplotlib
-gradio>=4.0
+
+# Math + data handling
+numpy>=1.24
+pandas>=2.1
+scipy>=1.11
+
+# Visualization & plotting
+matplotlib>=3.8
+
+# Web interface
+gradio>=4.0.0
+
+# Optional: tqdm for progress logs
+tqdm>=4.65
+
+# Avoid noisy logs
+rich>=13.7
+
+# Runtime environment (not strictly needed on HF)
+python-dotenv>=1.0
