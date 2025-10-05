@@ -7,6 +7,38 @@
 ### 📍 Overview
 **AI-Gait-Visualizer** is an interactive application that extracts human pose keypoints and gait metrics from short walking videos.  
 It uses **YOLOv8-Pose** for keypoint detection and a lightweight gait-analysis pipeline to estimate stride length proxies and cadence.
+This application is built with Ultralytics YOLOv8, OpenCV, and Gradio. It allows you to upload a walking video and instantly visualize gait characteristics. You do not need to install anything or write a single line of code. Just open it, upload your video, and explore how AI interprets human motion.
+
+---
+
+### 🚀 Live Demo
+🟢 **Try it directly here:**  
+👉 [https://huggingface.co/spaces/rmehmood786/AI-Gait-Visualizer](https://huggingface.co/spaces/rmehmood786/AI-Gait-Visualizer)
+
+Upload a walking video → click **Run Analysis** → view the annotated video and download CSV metrics.
+
+---
+
+### ⚙️ Features
+- 🎯 **Pose Estimation:** Real-time body keypoints using YOLOv8-Pose.  
+- 🦶 **Gait Metrics:** Calculates stride proxy, step duration, and approximate cadence.  
+- 📊 **Downloadable Results:** Exports a CSV file with per-frame gait data.  
+- 💡 **Interactive Interface:** Built with Gradio for smooth use.  
+- ☁️ **Cloud-Ready:** Runs directly on Hugging Face Spaces.
+
+---
+
+### 🧩 Tech Stack
+| Component | Description |
+|----------|-------------|
+| **Model** | YOLOv8-Pose (Ultralytics) |
+| **Frameworks** | Gradio, OpenCV, NumPy, SciPy, Pandas |
+| **Deployment** | Hugging Face Spaces |
+| **Language** | Python 3.10+ |
+
+---
+
+### 🗂️ Project Structure
 
 ---
 
