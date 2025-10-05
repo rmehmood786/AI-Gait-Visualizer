@@ -124,7 +124,7 @@ rich
 ### 🎬 Example Output
 | Input | Output |
 |-------|---------|
-| <img src="https://raw.githubusercontent.com/rmehmood786/AI-Gait-Visualizer/main/Sample_input.gif" width="300"/> | <img src= "sample_output.gif" width="300"/> |
+| <img src="https://raw.githubusercontent.com/rmehmood786/AI-Gait-Visualizer/main/assets/Sample_input.gif" width="300"/> | <img src= "assets/sample_output.gif" width="300"/> |
 ---
 ## 💡 Ideas to Extend or Experiment With
 
