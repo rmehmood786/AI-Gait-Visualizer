@@ -94,7 +94,7 @@ rich
 ### 🎬 Example Output
 | Input | Output |
 |-------|---------|
-| <img src="https://raw.githubusercontent.com/rmehmood786/AI-Gait-Visualizer/main/Sample_input.gif" width="300"/> | <img src="https://raw.githubusercontent.com/rmehmood786/AI-Gait-Visualizer/pose_estimation_output 2.mp4" width="300"/> |
+| <img src="https://raw.githubusercontent.com/rmehmood786/AI-Gait-Visualizer/main/Sample_input.gif" width="300"/> | <img src="https://raw.githubusercontent.com/rmehmood786/AI-Gait-Visualizer/sample_output.gif" width="300"/> |
 
 
 ---
