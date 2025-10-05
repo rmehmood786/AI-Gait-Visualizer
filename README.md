@@ -94,9 +94,8 @@ rich
 ### 🎬 Example Output
 | Input | Output |
 |-------|---------|
-| <img src="https://raw.githubusercontent.com/rmehmood786/AI-Gait-Visualizer/main/assets/sample_input.gif" width="300"/> | <img src="https://raw.githubusercontent.com/rmehmood786/AI-Gait-Visualizer/main/assets/sample_output.gif" width="300"/> |
+| <img src="https://raw.githubusercontent.com/rmehmood786/AI-Gait-Visualizer/main/Sample_input.gif" width="300"/> | <img src="https://raw.githubusercontent.com/rmehmood786/AI-Gait-Visualizer/main/assets/sample_output.gif" width="300"/> |
 
-*(Replace these with your own sample GIFs or screenshots in an `assets/` folder.)*
 
 ---
 
