@@ -96,12 +96,14 @@ rich
 |-------|---------|
 | <img src="https://raw.githubusercontent.com/rmehmood786/AI-Gait-Visualizer/main/Sample_input.gif" width="300"/> | <img src= "sample_output.gif" width="300"/> |
 ---
+## 💡 Ideas to Extend or Experiment With
 
-### 🧩 Future Work
-- 🏃‍♂️ Improve stride detection accuracy using trajectory smoothing.  
-- 📈 Add angle-based joint analysis for better limb coordination.  
-- 🧠 Introduce basic gait classification using machine learning.
-
+- Integrate pose estimation with gait recognition for identity prediction.  
+- Visualize motion trajectories in 3D using Open3D or Matplotlib.  
+- Add real-time gait visualization using webcam input.  
+- Try comparing different YOLO variants (v8, v10) for accuracy vs. speed.  
+- Use temporal smoothing or Kalman filtering for stable keypoints.  
+- Build a web-based dashboard for visualizing stride metrics interactively.
 ---
 
 ### 👤 Author
