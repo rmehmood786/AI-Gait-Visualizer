@@ -8,9 +8,7 @@
 **AI-Gait-Visualizer** is an interactive application that extracts human pose keypoints and gait metrics from short walking videos.  
 It uses **YOLOv8-Pose** for keypoint detection and a lightweight gait-analysis pipeline to estimate stride length proxies and cadence.
 
-Built with **Ultralytics YOLOv8**, **OpenCV**, and **Gradio**, the app allows anyone to upload a walking video and visualize gait characteristics instantly 
-and guess what ? no installation or coding required to get the experience.
-
+Built with **Ultralytics YOLOv8**, **OpenCV**, and **Gradio**, this app lets you upload any walking video and instantly visualize gait characteristics. You do not need to install anything or write a single line of code. Just open it, upload your video, and explore how AI interprets human motion.
 ---
 
 ### 🚀 Live Demo
